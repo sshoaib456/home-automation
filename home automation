@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Home automation</title>
+    <style>
+        body{
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Home Automation System</h1>
+    <h2>Made By : Syed Shoaib UR Rehman</h2>
+    <h2>Room 1</h2>
+    <a href="/room1led1on\"><button>LED 1 ON</button></a>
+    <a href="/room1led1off\"><button>LED 1 OFF</button></a>
+    <br><br>
+    <a href="/room1led2on\"><button>LED 2 ON</button></a>
+    <a href="/room1led2off\"><button>LED 2 OFF</button></a>
+    <br><br>
+    <a href="/room1fan1on\"><button>FAN 1 ON</button></a>
+    <a href="/room1fan1off\"><button>FAN 1 OFF</button></a>
+    <br><br>
+    <a href="/room1fan2on\"><button>FAN 2 ON</button></a>
+    <a href="/room1fan2off\"><button>FAN 2 OFF</button></a>
+    <br><br>
+    <h2>Room 2</h2>
+    <a href="/room2led1on\"><button>LED 1 ON</button></a>
+    <a href="/room2led1off\"><button>LED 1 OFF</button></a>
+    <br><br>
+    <a href="/room2led2on\"><button>LED 2 ON</button></a>
+    <a href="/room2led2off\"><button>LED 2 OFF</button></a>
+    <br><br>
+    <a href="/room2fan1on\"><button>FAN 1 ON</button></a>
+    <a href="/room2fan1off\"><button>FAN 1 OFF</button></a>
+    <br><br>
+    <a href="/room2fan2on\"><button>FAN 2 ON</button></a>
+    <a href="/room2fan2off\"><button>FAN 2 OFF</button></a>
+    <br><br>
+
+
+    <h2>Car Garage</h2>
+    <a href="/Cargarageled1on\"><button>LED 1 ON</button></a>
+    <a href="/Cargarageled1off\"><button>LED 1 OFF</button></a>
+    <br><br>
+    <a href="/Cargarageled2on\"><button>LED 2 ON</button></a>
+    <a href="/Cargarageled2off\"><button>LED 2 OFF</button></a>
+    <br><br>
+    <a href="/room2fan1on\"><button>FAN 1 ON</button></a>
+    <a href="/room2fan1off\"><button>FAN 1 OFF</button></a>
+    <br><br>
+    <a href="/room2fan2on\"><button>FAN 2 ON</button></a>
+    <a href="/room2fan2off\"><button>FAN 2 OFF</button></a>
+    <br><br>
+
+    <h2>GARDEN</h2>
+    <a href="/gardenled1on\"><button>LED 1 ON</button></a>
+    <a href="/gardenled1off\"><button>LED 1 OFF</button></a>
+    <br><br>
+    <a href="/gardenled2on\"><button>LED 2 ON</button></a>
+    <a href="/gardenLED2off\"><button>LED 2 OFF</button></a>
+    <br><br>
+    <a href="/gardenfan1on\"><button>FAN 1 ON</button></a>
+    <a href="/gardenfan1off\"><button>FAN 1 OFF</button></a>
+    <br><br>
+    <a href="/gardenfan2on\"><button>FAN 2 ON</button></a>
+    <a href="/gardenfan2off\"><button>FAN 2 OFF</button></a>
+    <br><br>
+    
+
+
+
+
+
+</body>
+
+</html>
